@@ -46,6 +46,7 @@ for i in range(n):
 ```
 
 ## Output:
+
 ![](ga2.png)
 ![](ga1.png)
 
